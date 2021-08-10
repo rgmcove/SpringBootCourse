@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>co.com.rgm</groupId>
-	<artifactId>InicioSpring</artifactId>
+	<artifactId>HolaMundoThymeleaf</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>InicioSpring</name>
+	<name>HolaMundoThymeleaf</name>
 	<description>Inicio Spring boot</description>
 	<properties>
 		<java.version>16</java.version>
